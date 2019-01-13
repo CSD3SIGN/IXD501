@@ -2,7 +2,8 @@
 Final year project
 
 ## Research
-[Tumblr Link](https://www.tumblr.com/blog/csd3sign/ixd501) 90% off my research is already included in my portfolio.  This link is in just incase I missed anyhting out.
+[Tumblr Link](https://www.tumblr.com/blog/csd3sign/ixd501) 
+90% off my research is already included in my portfolio.  This link is in just incase I missed anyhting out.
 
 ## Prototype
 
