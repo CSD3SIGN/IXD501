@@ -7,9 +7,11 @@ Final year project
 
 ## Prototype
 
-[Prototype 2](https://github.com/CSD3SIGN/IXD501/blob/master/3%20Off%20the%20Tee%20Prototype%202.key)
+[Prototype 1](https://github.com/CSD3SIGN/IXD501/blob/master/3%20Off%20the%20Tee%20Prototype%201.key)
 
-[Prototype 3](https://github.com/CSD3SIGN/IXD501/blob/master/3%20Off%20the%20Tee%20Prototype%203.key)
+[Prototype 2]()
+
+[Prototype 3]()
 
 [Full Prototype](https://github.com/CSD3SIGN/IXD501/blob/master/3%20Off%20the%20Tee%20Prototype.key)
 
